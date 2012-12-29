@@ -1,0 +1,6 @@
+[
+{ "keys": ["alt+b"], "command": "insert", "args": {"characters": "<br />"} },
+{ "keys": ["alt+c"], "command": "insert", "args": {"characters": "console.log();"} },
+{ "keys": ["alt+d"], "command": "reindent" , "args": {"single_line": false} },
+{ "keys": ["ctrl+b"], "command": "toggle_side_bar" }
+]
